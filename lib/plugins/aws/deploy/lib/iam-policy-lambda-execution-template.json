@@ -15,7 +15,7 @@
             "Resource": []
           },
           {
-            "Effect": "Allow",
+            "Effect": "Deny",
             "Action": [
               "logs:PutLogEvents"
             ],

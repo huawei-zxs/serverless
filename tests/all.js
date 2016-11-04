@@ -48,3 +48,4 @@ require('../lib/plugins/aws/invokeLocal/tests');
 
 // Other Tests
 require('./utils/tests');
+require('./dependency-versions.test');
